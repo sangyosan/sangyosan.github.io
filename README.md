@@ -1,2 +1,2 @@
 # sangyosan.github.io
-Amebaブログ記事の転載用サイト
+Amebaブログ記事のバックアップ用サイト
